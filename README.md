@@ -1,1 +1,1 @@
-checkout the blog on this project -->https://aakibkhan1.medium.com/project-6-deployment-of-super-mario-on-kubernetes-using-terraform-74c7ce79b1f6
+checkout the blog on this project -->Deploy Super mario on Kubernetes using Terraform https://medium.com/@ramsica010/deploy-super-mario-on-kubernetes-using-terraform-215bbb644606
